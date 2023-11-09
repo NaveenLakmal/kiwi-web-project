@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap');
+
+
+#kiwi-bird--div-id{
+    text-align: justified;
+    font: 700 48px "Poppins", sans-serif;
+    position: relative;
+    margin-left: 45px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+#main-span-red-firstParagraph{
+    color: red;
+
+}
+
+/* [class="main-paragraph-div"]{
+    margin-left: 5%;
+} */
+
+[class=main-paragraph-div]{
+    font-size: 35px;
+    margin-left: 85px;
+    width: 85%;
+    text-align: justify;
+    
+}
+
+#main-div-image-01-02-03{margin-left: 120px}
+
+[class="img-small"]{
+    width: 350px;
+
+}
+
+#ul-list-1st-rectangle{
+    background: #d60000;
+    width: 25px;
+    height: 25px;
+    position: absolute; 
+    margin-left: 85px;
+    margin-top: 1%;
+    
+}
+
+#habitat-diet-id{
+  /* text-align: justified; */
+  font: 500 28px/50px "Poppins", sans-serif;
+  position: relative;
+  /* width: 367px;
+  height: 60px; */
+  margin-left: 120px;
+}
+
+        /* .habitat-diet-class{
+            margin-left: 5%;
+            
+        } */
+
+
+
+
+ /* .second-paragraph-image-main{
+    display: flex;
+    
+}  */
+
+#second-paragraph-id{
+    
+    text-align: justify;
+    font-size: 27px;
+    margin-left: 120px;
+    /* margin-right: 180px; */
+}
+
+#paragraphs-main-div-id{
+    width: 50%;
+}
+
+ #ul-list-2nd-rectangle{
+    background: blue;
+    width: 25px;
+    height: 25px;
+    position: absolute; 
+    margin-left: 85px;
+    margin-top: 1%;
+    
+   
+    
+}  
+
+#family-life-id{
+    /* text-align: justified; */
+    font: 500 28px/50px "Poppins", sans-serif;
+    /* position: relative; */
+    /* width: 367px;
+    height: 60px; */
+    margin-left: 120px;
+  }
+
+#third-paragraph-id{
+    text-align: justify;
+    font-size: 27px;
+    margin-left: 120px;
+    /* margin-right: 180px; */
+}
+
+.second-paragraph-image-main{
+    display: flex;
+}
+
+#image-main-div-id{
+    width: 50%;
+}
+
+#image-sub-div-id{
+    background: #d9d9d9;
+    margin-left: 55px;
+    margin-right: 230px;
+    position: relative;
+    height: 1275px;
+}
+#kiwi{
+    text-align: center;
+    font: 500 30px "Poppins", sans-serif;
+    position: relative;
+     
+
+}
+
+#temporal-range{
+    text-align: center;
+  font: 500 16px "Poppins", sans-serif;
+  position: relative;
+  /* width: 613px; */
+  /* height: 56px; */
+}
+
+#image-04{
+    width: 380px;
+  height: 330px;
+  
+}
+
+#image-04-div{
+     margin-left: 10.5%;
+    margin-top: 5%; 
+}
+
+#north-island{
+    color: #0047ff;
+  text-align: center;
+  font: 400 16px "Abyssinica SIL", sans-serif;
+  position: relative;
+  margin-left: 60px;
+  width: 357px;
+  height: 40px;
+}
+
+#image-bottom-green-bar{
+    background: #8f9b00;
+    width: 467px;
+    height: 40px;
+    color: #ffffff;
+    text-align: center;
+    font: 500 18px/40px "Lexend", sans-serif;
+    
+    
+}
+
+#kiwi-details-main-div-id{
+    display: flex;
+}
+
+#kiwi-details-sub-left-div-id{
+    margin-top: 20px;
+    text-align: left;
+    font: 600 20px/55px "Lato", sans-serif;
+    margin-left: 70px;
+}
+
+#kiwi-details-sub-center-div-id{
+    margin-top: 20px;
+    text-align: left;
+    font: 600 20px/55px "Lato", sans-serif;
+    margin-left: 25px;
+
+}
+
+#kiwi-details-sub-right-div-id{
+    margin-top: 20px;
+    color: blue;
+    text-align: left;
+    font: 600 20px/55px "Lato", sans-serif;
+    margin-left: 40px;
+    
+}
+
+
+#panel-bottom-rose-bar-id{
+    background: #9b0054;
+    width: 467px;
+    height: 40px;
+    color: #ffffff;
+    text-align: center;
+    font: 500 18px/40px "Lexend", sans-serif;
+    margin-top: 30px;
+}
+
+.Apteryx-div-class{
+    margin-top: 30px;
+    color: #0500ff;
+    text-align: center;
+    font: 400 30px "Poppins", sans-serif;
+}
+
+    
+ #bottem-div-id{
+    text-align: center;
+    font: 400 64px "Leckerli One";
+    position: relative;
+    margin-top: 4%;
+    margin-right: 20%;
+    margin-bottom: 5%;
+ }
